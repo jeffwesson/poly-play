@@ -1,0 +1,21 @@
+{
+  "name": "poly-play",
+  "homepage": "https://github.com/jeffwesson/poly-play",
+  "authors": [
+    "jeffwesson <jeff@jeffwesson.com>"
+  ],
+  "description": "Playing around with Polymer 1.0",
+  "main": "",
+  "moduleType": [],
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.3.1"
+  }
+}
